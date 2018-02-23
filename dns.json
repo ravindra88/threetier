@@ -5,6 +5,7 @@
 		"ResourceRecordSet": {
 			"Name": "testapp",
 			"Type": "CNAME",
+			"TTL": 100,
 			"ResourceRecords": [{
 				"Value": "FELBNAME"
 			}]
