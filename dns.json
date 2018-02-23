@@ -3,7 +3,7 @@
 	"Changes": [{
 		"Action": "CREATE",
 		"ResourceRecordSet": {
-			"Name": "test.ravindra88.tk",
+			"Name": "testapp.ravindra88.tk",
 			"Type": "CNAME",
 			"TTL": 100,
 			"ResourceRecords": [{
